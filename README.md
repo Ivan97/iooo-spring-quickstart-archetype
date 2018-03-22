@@ -1,0 +1,1 @@
+# iooo-spring-quickstart-archetype
