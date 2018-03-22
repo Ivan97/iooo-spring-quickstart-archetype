@@ -10,7 +10,7 @@
   </parent>
 
   <groupId>tech.iooo.maven.archetypes</groupId>
-  <artifactId>iooo-spring-quickstart-archetype</artifactId>
+  <artifactId>iooo-spring-quickstart</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
